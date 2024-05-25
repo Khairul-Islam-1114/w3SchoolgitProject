@@ -13,4 +13,6 @@ img{
     max-width: 960px;
     display: block;
     margin:auto;
+    border: 5px solid white;
+    border-radius: 5px;
 }
